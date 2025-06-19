@@ -11,7 +11,7 @@
 
 <div align="center">
     <a href="https://github.com/wajahatalimirpro">
-        <img src="https://github.com/wajahatalimirpro/wajahatalimirpro/blob/output/github-snake-dark.svg" alt="snake" />
+        <img src="https://github.com/wajahatalimirpro/wajahatalimirpro/output/github-snake-dark.svg" alt="snake" />
     </a>
 </div>
 
