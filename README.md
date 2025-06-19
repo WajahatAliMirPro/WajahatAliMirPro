@@ -11,7 +11,7 @@
 
 <div align="center">
     <a href="https://github.com/wajahatalimirpro">
-        <img src="https://github.com/wajahatalimirpro/wajahatalimirpro/output/github-snake-dark.svg" alt="snake" />
+        <img src="https://github.com/WajahatAliMirPro/WajahatAliMirPro/blob/930478bc94b7d08cc9a26911a21e00fa5f5e3af0/output/github-snake-dark.svg" alt="snake animation" />
     </a>
 </div>
 
@@ -94,5 +94,5 @@ Bash          25 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
     <summary>🌌 More Advanced Activity Graph</summary>
     <br />
     <h2 align="center">🌌 Contribution Universe</h2>
-    <img src="https://raw.githubusercontent.com/wajahatalimirpro/datafiles/profile-night-green.svg" />
+    <img src="https://github.com/WajahatAliMirPro/WajahatAliMirPro/blob/930478bc94b7d08cc9a26911a21e00fa5f5e3af0/datafiles/profile-night-green.svg" />
 </details>
